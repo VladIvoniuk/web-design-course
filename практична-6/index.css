@@ -1,1 +1,34 @@
+h1 {
+		text-align:center;
+		font-size: 24px;
+	}
+	p{
+		font-size: 120%;
+	}
 
+	#bio:link{
+		color:#a0203a;
+	}
+
+	#bio:visited {
+		color:#dc143c;
+	}
+
+	#now:link{
+		color:blue;
+	}
+	#now:visited{
+		color:aqua;
+	}
+	#friends:link{
+		color:green;
+	}
+	#friends:visited{
+		color:lightgreen;
+	}
+	#gallery:link{
+		color:yellow;
+	}
+	#gallery:visited{
+		color:orange;
+	}
