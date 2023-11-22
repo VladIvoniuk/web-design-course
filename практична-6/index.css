@@ -5,7 +5,7 @@
    
     }
 	a{
-		flex-flow:row wrap;
+		flex-direction:column;
 		display:inline-block;
 		margin-right:10px;
 	}
