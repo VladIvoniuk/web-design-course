@@ -3,7 +3,12 @@
     .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
     }
-    .col-lg-1 {
+	a{
+		display:inline-block;
+		margin-right:10px;
+	}
+    
+	.col-lg-1 {
     width: 8.33%;
     }
     .col-lg-2 {
@@ -47,6 +52,11 @@
     .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
     float: left;
     }
+	    a{
+		display:block;
+		margin-right:0px;
+		margin-bottom:10px;
+	}
     .col-md-1 {
     width: 8.33%;
     }
@@ -91,6 +101,11 @@
       
       padding: 5px;
       }
+	a{
+		display:block;
+		
+		margin-bottom:10px;
+	}
       .col-mn-1 {
       width: 8.33%;
       }
