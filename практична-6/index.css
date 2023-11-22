@@ -56,6 +56,11 @@
     .container{
 	    flex-direction:column;
     }
+	    a{
+		display:block;
+		margin-right:0px;
+		margin-bottom:10px;
+	    }
     .col-md-1 {
     width: 8.33%;
     }
