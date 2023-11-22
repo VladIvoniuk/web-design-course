@@ -1,1 +1,62 @@
+h1{
+        text-align: center;
+        font-size: 22px;
+    }
+    a{
+        font-style: italic;
+    }
+    .content{
+        text-align: center;
+       }
+	article{
+		font-size: 120%;
+	}
+	h3{
+		font-size: 120%;
+	}
 
+        li{
+            list-style-type: none;
+        }
+		.button{
+			display:inline-block;
+			background-color:blue;
+			color:black;
+			border:2px solid black;
+			padding:8px;
+			text-align:center;
+		}
+		.button:hover{
+			color:green;
+			background-color:magenta;
+		}
+		.button:active{
+			color:green;
+			background-color:yellow;
+		}
+        .text1{
+            background-color:yellow;
+            color:brown;
+        }
+        .text2{
+            background-color:lightcoral;
+            color:red;
+        }
+        .text3{
+            background-color:lightblue;
+            color:blue;
+        }
+        .text4{
+            background-color: lightgreen;
+            color:green;
+        }
+	.text5{
+		background-color:lightpink;
+		color:purple;
+	}
+	.content{
+		font-weight: bold;
+	}
+	.up{
+		text-transform: uppercase;
+	}
