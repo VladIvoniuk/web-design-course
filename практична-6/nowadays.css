@@ -3,6 +3,10 @@
     .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
     }
+    li{
+      display:inline-block;
+      margin-right: 10px;
+    }
     .col-lg-1 {
     width: 8.33%;
     }
@@ -47,6 +51,10 @@
     .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
     float: left;
     }
+    li {
+      display: block;
+      margin-bottom: 10px;
+    }
     .col-md-1 {
     width: 8.33%;
     }
@@ -90,6 +98,10 @@
       float: left;
       
       padding: 5px;
+      }
+      li {
+        display: block;
+        margin-bottom: 10px;
       }
       .col-mn-1 {
       width: 8.33%;
