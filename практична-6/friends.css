@@ -5,6 +5,7 @@
     .nontop-lg-3{
       font-size: 1.2em;
     }
+}
     /* Medium devices */
     @media (min-width: 768px) and (max-width: 992px) {
     .top-md-6{
@@ -13,10 +14,12 @@
     .nontop-md-6{
       font-size:1.1em;
     }
+}
     @media (max-width:  768px) {
     .top-mn-12{
       font-size: 1.1em;
     }
+}
 #number{
 		text-align: right;
 	}
@@ -53,4 +56,3 @@
         color: #fd03f1;
         font-weight: bold;
 	}
-}
