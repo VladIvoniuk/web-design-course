@@ -1,11 +1,12 @@
-.container{
-    display:flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
+
 
 @media (min-width: 992px) {  
-
+    img{
+        display:flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-item:center;
+    }
 
     .col-lg-1 {
      flex-basis: 8.33%;
