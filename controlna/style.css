@@ -1,5 +1,6 @@
 .text{
     background-color: rebeccapurple;
+    color:darkblue;
 }
 ul{
     background-color: brown;
@@ -7,7 +8,9 @@ ul{
 }
 table{
     background-color: aqua;
+    color:darkblue;
 }
 .img{
     background-color: chartreuse;
+    color:darkblue;
 }
