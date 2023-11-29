@@ -24,3 +24,7 @@ h4{
     font-size:120%;
     color:darkgreen;
 }
+
+h1 h2 h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
